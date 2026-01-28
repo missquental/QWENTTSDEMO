@@ -19,3 +19,11 @@ google-api-python-client
 requests
 gdown
 ffprobe
+subprocess32
+pathlib
+torch
+transformers
+soundfile
+gradio
+qwen-tts
+flash-attn
